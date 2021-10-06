@@ -1,0 +1,11 @@
+massive = []
+massive.append("Lamba")
+massive.append("Nike")
+massive.append("Chevrolet")
+massive.append("Honda")
+massive.append("Porshe")
+print(massive)
+massive.insert(3,"Denis")
+print(massive)
+a = len(massive)
+print(a)
